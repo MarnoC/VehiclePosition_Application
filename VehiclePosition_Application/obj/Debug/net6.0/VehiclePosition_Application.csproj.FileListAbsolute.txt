@@ -1,0 +1,30 @@
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.exe
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.deps.json
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.runtimeconfig.json
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.dll
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.pdb
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.csproj.AssemblyReference.cache
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.AssemblyInfoInputs.cache
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.AssemblyInfo.cs
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.csproj.CoreCompileInputs.cache
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.dll
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\refint\VehiclePosition_Application.dll
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.pdb
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.genruntimeconfig.cache
+F:\Projects\Mix Telematics\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\ref\VehiclePosition_Application.dll
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.exe
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.deps.json
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.runtimeconfig.json
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.dll
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\bin\Debug\net6.0\VehiclePosition_Application.pdb
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.csproj.AssemblyReference.cache
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.AssemblyInfoInputs.cache
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.AssemblyInfo.cs
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.csproj.CoreCompileInputs.cache
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.dll
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\refint\VehiclePosition_Application.dll
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.pdb
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\VehiclePosition_Application.genruntimeconfig.cache
+F:\Projects\VehiclePosition_Application\VehiclePosition_Application\obj\Debug\net6.0\ref\VehiclePosition_Application.dll
